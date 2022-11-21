@@ -1,0 +1,5 @@
+baseURL = 'https://bbck.net/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "archie"
+
